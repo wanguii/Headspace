@@ -8,7 +8,9 @@ Africa Digital Media Institute duo project. Hoping that people will feel safe sh
 ##functionality
 
 1.It's an open space where people get to talk and speak what they feel is right.
+
 2.Someone can view topics that are commented on the most and if they want to join a conversation they can sign up or login.
+
 3.It's a working project, in future hoping to put more features.
 
 
